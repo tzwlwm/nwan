@@ -1,0 +1,1 @@
+Enables roaming of user-contributed wireless networks.
